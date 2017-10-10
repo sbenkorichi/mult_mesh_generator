@@ -2,7 +2,7 @@
 This is a free open source web-based Python tool to generate MULT lines based on a single MESH line.
 The app can be found here : http://www.sbenkorichi.com/handy-tools/mult-mesh-generator/
 
-For any questions or issues, just create an issue and will take a look.
+For any questions or issues, just create an issue here and will take a look.
 
 Example:
 
